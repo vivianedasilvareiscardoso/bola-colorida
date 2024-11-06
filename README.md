@@ -1,1 +1,1 @@
-# bola-colorida
+# jogo-da-bolinha-colorida
